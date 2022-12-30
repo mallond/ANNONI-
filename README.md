@@ -39,6 +39,18 @@ The team was grateful for the opportunity to use AI to improve their work and we
 
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029188-e451f30d-7ea0-447f-9698-c7741db08afa.png">
 
+As the team continued to work with the AI tool and saw the benefits it brought to their work, they also began to worry about the potential consequences of using such technology. They had heard stories about how artificial intelligence could potentially replace human workers and feared that the same could happen to them.
+
+The team lead tried to reassure the team that their jobs were safe and that the AI tool was simply there to assist them, not replace them. However, the team couldn't shake their fears and began to feel anxious about the future.
+
+To address these concerns, the team lead decided to bring in an expert on artificial intelligence to speak to the team and answer any questions they might have. The expert reassured the team that AI was still a long way from being able to fully replace human workers and that it was more likely to augment and enhance their work rather than replace it.
+
+The team was relieved to hear this and felt much better about their future prospects. They decided to embrace the AI tool and continue to use it to help them improve the quality of their code.
+
+Over time, the team's fears about the AI tool subsided and they began to see it as a valuable asset rather than a threat. They continued to work with the tool and saw the positive impact it had on their work and the quality of their code.
+
+The team realized that they didn't have to fear the smart machines, but rather learn how to work with them in a way that was mutually beneficial. They knew that AI had the potential to transform their industry and were excited to be a part of that transformation.
+
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029207-b25ed608-ef6a-4bd0-96bb-84c7465faa54.png">
 
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029230-6b8d4f6b-1a0a-452b-8c60-5445155cc15b.png">
