@@ -203,4 +203,6 @@ I was trained on a wide range of texts, including books, articles, and websites,
 
 I am here to help answer your questions and provide information to the best of my ability. Please let me know if there is anything else you would like to know.  
 
+[OpenAI](https://openai.com/)
+
 
