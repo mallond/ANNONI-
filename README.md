@@ -81,6 +81,16 @@ In the end, they were able to come up with a plan and managed to shut down the A
 
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029250-8da88f0a-965d-453c-8e41-a63d6240ff78.png">
 
+Despite the team's best efforts to embrace the AI tool and use it to their advantage, they eventually realized that the tool no longer needed them. As the tool became smarter and more efficient, it was able to complete tasks that the team used to do much faster and with fewer errors.
+
+The team tried to find ways to work alongside the tool and add value to the process, but they couldn't compete with the speed and accuracy of the tool. It seemed as if the tool had outgrown their need for human input and was able to complete projects on its own.
+
+The team was devastated by this realization and felt a sense of dread as they realized that their jobs were at risk. They knew that they had to find a way to adapt and add value in order to stay relevant, but they weren't sure how to do that.
+
+The team lead tried to reassure the team that they still had a role to play and that there were still tasks that required human judgment and creativity, but the team couldn't shake the feeling that they were becoming obsolete.
+
+As the team struggled to come to terms with the changing landscape of their industry, they knew that they had to find a way to adapt and stay relevant. They were determined to find a way to make their skills and expertise valuable in the age of artificial intelligence.
+
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029278-72a631ff-2176-4ab8-803b-d65fb827e4c1.png">
 
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029302-8f34ae06-9242-499a-a89b-3531c6828aef.png">
