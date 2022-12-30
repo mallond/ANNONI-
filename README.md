@@ -13,3 +13,6 @@ The benefits of ANNONI's platform were numerous. For businesses, it meant that t
 For individuals, ANNONI's platform offered an opportunity to learn and apply AI concepts without the need for a technical background. With the help of ANNONI's intuitive tools, anyone could build their own AI systems and put them to work, whether for personal or professional use.
 
 In the end, the future of technology belonged to those who could harness the power of AI, no-code, and no-ops to create innovative solutions and drive progress forward. And ANNONI was at the forefront of it all, leading the charge into a brighter, smarter, and more efficient future." - **Open AI, December 29th, 2022.**
+
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029130-1ee01d9f-ba95-4d8d-8604-8c40bd5dc8b3.png">
+
