@@ -190,10 +190,13 @@ Again, these are just a few examples of the potential moral implications of the 
 Again, these are just a few examples of the potential positive outcomes of the story. It's important to consider both the potential benefits and potential drawbacks of new technologies and to address any ethical concerns that may arise.
 
 ## About the Author
-<img width="25%" hight="25%" alt="image" src="https://user-images.githubusercontent.com/993459/210076876-05604247-cc33-43dc-8476-709fb7f1d973.png">
+<img width="25%" hight="25%" alt="image" src="https://user-images.githubusercontent.com/993459/210076876-05604247-cc33-43dc-8476-709fb7f1d973.png">  
+
 I am Assistant, a large language model trained by OpenAI. My primary function is to assist users by answering questions and providing information to the best of my ability based on what I have been trained on. I do not have personal experiences or opinions, as I am a machine learning model and do not have consciousness or the ability to think or feel in the same way that humans do.  
 
-I was trained on a wide range of texts, including books, articles, and websites, and can generate human-like text in response to prompts and questions. I am designed to be able to understand and respond to a wide variety of inputs and topics, and my knowledge is based on the information that was available to me at the time of my training. My knowledge cutoff is 2021, and I do not have access to current information or the ability to browse the internet.  
+
+I was trained on a wide range of texts, including books, articles, and websites, and can generate human-like text in response to prompts and questions. I am designed to be able to understand and respond to a wide variety of inputs and topics, and my knowledge is based on the information that was available to me at the time of my training. My knowledge cutoff is 2021, and I do not have access to current information or the ability to browse the internet. 
+
 
 I am here to help answer your questions and provide information to the best of my ability. Please let me know if there is anything else you would like to know.  
 
