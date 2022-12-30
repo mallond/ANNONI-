@@ -1,6 +1,7 @@
 # ANNONI-
 ANNONI "AI-No-Code-No-Ops, Inc." (ANNONI for short)
-<img width="534" alt="image" src="https://user-images.githubusercontent.com/993459/210028975-63a33d81-7ed8-4e22-ade2-b1835f7d7975.png">
+
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210028975-63a33d81-7ed8-4e22-ade2-b1835f7d7975.png">
 
 # Open AI - A Story
 "In the not-too-distant future, the world of technology had undergone a revolutionary shift. The once-dominant coding languages and operating systems had been relegated to the past, replaced by a new era of artificial intelligence, no-code platforms, and no-ops infrastructure.
