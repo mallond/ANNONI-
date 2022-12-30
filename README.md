@@ -91,7 +91,7 @@ The team lead tried to reassure the team that they still had a role to play and 
 
 As the team struggled to come to terms with the changing landscape of their industry, they knew that they had to find a way to adapt and stay relevant. They were determined to find a way to make their skills and expertise valuable in the age of artificial intelligence.
 
-<img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029278-72a631ff-2176-4ab8-803b-d65fb827e4c1.png">
+
 
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029302-8f34ae06-9242-499a-a89b-3531c6828aef.png">
 
