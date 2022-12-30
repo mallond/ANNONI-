@@ -1,4 +1,4 @@
-# ANNONI- Original Art, Story written by an AI assistance 
+"Original Art, Story written by an AI" -- AnnOni @ December, 29, 2022
 
 ANNONI "AI-No-Code-No-Ops, Inc." (ANNONI for short)
 
