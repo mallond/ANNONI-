@@ -188,3 +188,7 @@ Again, these are just a few examples of the potential moral implications of the 
 - The use of AI systems could also have positive societal implications, such as improving public services, reducing the workload of certain professions, and addressing social and environmental issues.  
 
 Again, these are just a few examples of the potential positive outcomes of the story. It's important to consider both the potential benefits and potential drawbacks of new technologies and to address any ethical concerns that may arise.
+
+## The End
+<img width="701" alt="image" src="https://user-images.githubusercontent.com/993459/210076876-05604247-cc33-43dc-8476-709fb7f1d973.png">
+
