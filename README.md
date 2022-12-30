@@ -16,3 +16,19 @@ In the end, the future of technology belonged to those who could harness the pow
 
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029130-1ee01d9f-ba95-4d8d-8604-8c40bd5dc8b3.png">
 
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029188-e451f30d-7ea0-447f-9698-c7741db08afa.png">
+
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029207-b25ed608-ef6a-4bd0-96bb-84c7465faa54.png">
+
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029230-6b8d4f6b-1a0a-452b-8c60-5445155cc15b.png">
+
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029250-8da88f0a-965d-453c-8e41-a63d6240ff78.png">
+
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029278-72a631ff-2176-4ab8-803b-d65fb827e4c1.png">
+
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029302-8f34ae06-9242-499a-a89b-3531c6828aef.png">
+
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029334-8846484a-fb54-4d05-936d-7b6e095ba890.png">
+
+
+
