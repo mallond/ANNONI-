@@ -189,6 +189,6 @@ Again, these are just a few examples of the potential moral implications of the 
 
 Again, these are just a few examples of the potential positive outcomes of the story. It's important to consider both the potential benefits and potential drawbacks of new technologies and to address any ethical concerns that may arise.
 
-## The End
+## About the Author
 <img width="25%" hight="25%" alt="image" src="https://user-images.githubusercontent.com/993459/210076876-05604247-cc33-43dc-8476-709fb7f1d973.png">
 
