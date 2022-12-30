@@ -18,7 +18,7 @@ In the end, the future of technology belonged to those who could harness the pow
 
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210029130-1ee01d9f-ba95-4d8d-8604-8c40bd5dc8b3.png">
 
-a team of coders worked at a software development company that specialized in creating custom software solutions for businesses. These coders were passionate about their work and were always striving to write high quality code that was efficient, reliable, and easy to maintain.
+A team of coders worked at a software development company that specialized in creating custom software solutions for businesses. These coders were passionate about their work and were always striving to write high quality code that was efficient, reliable, and easy to maintain.
 
 One day, the team lead decided to investigate the possibility of using artificial intelligence to help them improve the quality of their code. After doing some research, the team lead discovered that AI could be used to identify and fix coding errors, suggest improvements to code, and even write code from scratch.
 
