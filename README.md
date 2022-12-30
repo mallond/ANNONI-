@@ -151,7 +151,7 @@ As a result, a new generation of AI experts and innovators emerged, using ANNONI
 
 And so, the future that ANNONI had helped to create was one of boundless potential, where anyone with a good idea and a willingness to learn could use AI to make their mark on the world.
 
-## ANNONI, Answears A Few Questions
+## ANNONI, Answers A Few Questions
 
 **Human**, What are the moral implications of this story?
 
