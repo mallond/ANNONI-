@@ -1,4 +1,5 @@
-# Open AI - A Story, of Things That May Become  
+# "No Code, No Ops: The Future of AI and Automation"  
+## Open AI - A Story, of Things That May Become  
 ### Original Art, and Story -- by ANNONI  
 December, 29, 2022
 
