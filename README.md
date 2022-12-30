@@ -13,7 +13,7 @@ So, they set out to create a platform that would make it easy for anyone to buil
 
 And so, ANNONI was born, a company dedicated to bringing the power of AI to the masses and making it accessible to anyone with a good idea and a willingness to learn.
 
-## The Story
+## The Journey
 
 "In the not-too-distant future, the world of technology had undergone a revolutionary shift. The once-dominant coding languages and operating systems had been relegated to the past, replaced by a new era of artificial intelligence, no-code platforms, and no-ops infrastructure.
 
