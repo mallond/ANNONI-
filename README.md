@@ -1,4 +1,5 @@
-# ANNONI-
+# ANNONI- Original Art, Story written by an AI assistance 
+
 ANNONI "AI-No-Code-No-Ops, Inc." (ANNONI for short)
 
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210028975-63a33d81-7ed8-4e22-ade2-b1835f7d7975.png">
