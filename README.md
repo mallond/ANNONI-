@@ -1,11 +1,12 @@
-# Original Art, and Story -- by ANNONI  
+# Open AI - A Story, of Things That May Become  
+### Original Art, and Story -- by ANNONI  
 December, 29, 2022
 
 ANNONI "AI-No-Code-No-Ops, Inc." (ANNONI for short)
 
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/993459/210028975-63a33d81-7ed8-4e22-ade2-b1835f7d7975.png">
 
-# Open AI - A Story, of Things That May Become
+
 
 ## Prolog
 It all started with a simple idea: to make the power of artificial intelligence accessible to everyone. In the early days of ANNONI, the company's founders knew that the technology had the potential to revolutionize the way we live and work, but they also knew that it was often out of reach for those without a technical background.
