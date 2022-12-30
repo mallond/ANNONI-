@@ -1,4 +1,5 @@
-"Original Art, and Story" -- AnnOni @ December, 29, 2022
+# Original Art, and Story -- by ANNONI  
+December, 29, 2022
 
 ANNONI "AI-No-Code-No-Ops, Inc." (ANNONI for short)
 
