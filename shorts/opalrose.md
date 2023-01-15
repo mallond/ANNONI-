@@ -1,3 +1,4 @@
+# "Join the fight, hack for good!"
 <img width="246" alt="image" src="https://user-images.githubusercontent.com/993459/212567545-c8e7ab86-1255-47bd-82fb-2da134b74850.png">
 
 Once upon a time, in a world where technology had advanced far beyond what anyone had ever imagined, there existed a group of hackers known as the "Opal Rose Hacker Society." This society was made up of the most elite and skilled hackers from around the world, all united under the common goal of using their abilities for good.
