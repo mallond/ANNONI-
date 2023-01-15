@@ -13,7 +13,7 @@ Thanks to the efforts of the society, the corporation was forced to change its w
 
 But even as they saved the world from one digital threat after another, the members of the Opal Rose Hacker Society knew that there would always be more work to be done. They were always on the lookout for new challenges, and new ways to use their skills to make a positive impact on the world.
 
-The end.
+
 
 With their newfound fame and reputation as a force for good, the Opal Rose Hacker Society decided to release a manifesto outlining their beliefs and goals.
 
