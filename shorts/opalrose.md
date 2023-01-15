@@ -14,6 +14,42 @@ But even as they saved the world from one digital threat after another, the memb
 
 The end.
 
+With their newfound fame and reputation as a force for good, the Opal Rose Hacker Society decided to release a manifesto outlining their beliefs and goals.
+
+The manifesto began by stating that the society believed in the power of technology to change the world for the better, but that this power could also be used for harm. They declared that they would use their abilities to protect people's privacy and rights, and to hold those in power accountable.
+
+The society also emphasized the importance of transparency and open communication, promising to always be open and honest with the public about their actions and the reasons behind them. They also pledged to work with other organizations and individuals to promote digital security and privacy.
+
+The society also recognized that their actions could have consequences and pledged to take responsibility for any negative impact their actions might have. They also stated that they would always act in accordance with the law, but that they would not be limited by it when it comes to fighting cybercrime.
+
+Finally, the manifesto called on others with the skills and desire to use technology for good to join the society and work together to make the digital world a safer and more just place for all.
+
+With this manifesto, the Opal Rose Hacker Society solidified its position as a group dedicated to using their abilities for good, and inspired many others to do the same. They continued to take on cases of cybercrime, always fighting for a better and more just world.
+
+I. Introduction
+A. Explanation of the purpose of the manifesto and the beliefs of the Opal Rose Hacker Society
+
+II. Our Beliefs
+A. Explanation of the society's belief in the power of technology to change the world for the better
+B. Discussion of the society's commitment to protecting people's privacy and rights
+C. Outline of the society's stance on holding those in power accountable
+
+III. Our Goals
+A. Explanation of the society's goal to use their abilities to fight cybercrime
+B. Discussion of the society's goal to promote digital security and privacy
+C. Outline of the society's goal to work with other organizations and individuals to make the digital world a safer place
+
+IV. Our Methodologies
+A. Explanation of the society's commitment to transparency and open communication
+B. Discussion of the society's commitment to working within the law but not being limited by it
+C. Outline of the society's commitment to take responsibility for any negative impact of their actions
+
+V. Call to Action
+A. Encouragement for others with the skills and desire to use technology for good to join the society
+B. Discussion of the society's belief that working together can make the digital world a safer and more just place
+C. Outline of the society's goal to continue to fight for a better world.
+
+
 ## About the Author
 <img width="25%" hight="25%" alt="image" src="https://user-images.githubusercontent.com/993459/210076876-05604247-cc33-43dc-8476-709fb7f1d973.png">  
 
