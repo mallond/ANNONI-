@@ -29,8 +29,8 @@ jobs:
        my_array+=("${vars[@]}")
        echo "Array contents:"
        for item in "${my_array[@]}"; do
-         echo " - $item"
+         echo " ITEM - $item"
        done
-       ./vars.sh
+
     
         
