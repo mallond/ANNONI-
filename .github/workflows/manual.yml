@@ -25,7 +25,12 @@ jobs:
        pwd
        ls -al
        echo "${{secrets.MY_ARRAY}}"
-       chmod +x ./vars.sh
+       secrets=($(echo "${{ secrets.MY_ARRAY }}" | tr ',' '\n'))
+       my_array+=("${vars[@]}")
+       echo "Array contents:"
+       for item in "${my_array[@]}"; do
+         echo " - $item"
+       done
        ./vars.sh
     
         
