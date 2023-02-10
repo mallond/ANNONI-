@@ -24,6 +24,7 @@ jobs:
       run: |
        pwd
        ls -al
+       echo "${{secrets.MY_ARRAY}}"
        chmod +x ./vars.sh
        ./vars.sh
     
