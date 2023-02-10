@@ -2,7 +2,7 @@
 
 # Define an empty array
 declare -a my_array
-echo '${{secrets.MY_ARRAY}}
+echo "${{secrets.MY_ARRAY}}"
 # Load secrets into the array
 secrets=($(echo "${{ secrets.MY_ARRAY }}" | tr ',' '\n'))
 my_array+=("${secrets[@]}")
