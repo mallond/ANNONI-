@@ -20,4 +20,7 @@ jobs:
     # Runs a single command using the runners shell
     - name: Send greeting
       run: |
+       chmod +x vars.sh
+       ./vars.sh
+    
         
