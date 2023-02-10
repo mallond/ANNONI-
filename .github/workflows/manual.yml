@@ -31,6 +31,14 @@ jobs:
        for item in "${my_array[@]}"; do
          echo " ITEM - $item"
        done
+       ls -al
+       echo "${{vars.MY_VARS}}"
+       secrets=($(echo "${{ vars.MY_VARS}}" | tr ',' '\n'))
+       my_array+=("${vars[@]}")
+       echo "Array contents:"
+       for item in "${my_array[@]}"; do
+         echo " ITEM-vars - $item"
+       done
 
     
         
